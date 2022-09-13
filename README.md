@@ -1,11 +1,5 @@
 ![Header](https://github.com/aninda-ghosh/aninda-ghosh/blob/63ce81b977f68291f23a0c7ee21f4dbf0a5ccd06/images/header/readme_header.png "Header")
 
-## Ongoing Projects
-
-| | |
-|---|---|
-| [![Readme Card](https://github-readme-stats-aninda-ghosh.vercel.app/api/pin/?username=aninda-ghosh&repo=DeepLearning-OpenCV&theme=dark&hide_border=true)](https://github.com/aninda-ghosh/DeepLearning-OpenCV) | [![Readme Card](https://github-readme-stats-aninda-ghosh.vercel.app/api/pin/?username=aninda-ghosh&repo=nRF52-Series-DFU&theme=dark&hide_border=true)](https://github.com/aninda-ghosh/nRF52-Series-DFU) |
-
 ## Languages
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
